@@ -30,7 +30,7 @@ This combination produces a spiral geometric art pattern.
 ---
 
 ## 🖼 Application Screenshot
-![Application Screenshot]()
+![Application Screenshot](Turtle-Graphics-Art/screenshot.png)
 
 ---
 
