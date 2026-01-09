@@ -1,0 +1,2 @@
+# No external libraries required
+# turtle is included with Python standard library
